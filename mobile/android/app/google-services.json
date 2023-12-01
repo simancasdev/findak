@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "741615636343",
+    "project_id": "findak-st",
+    "storage_bucket": "findak-st.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741615636343:android:e8fce3e431dd0937611b72",
+        "android_client_info": {
+          "package_name": "com.findak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741615636343-a7f3h4i6oo4hkfhhm3aafh11k9ba5m3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUFLlG06Ne1X891qGvkL6cR-APA_xvtGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741615636343-a7f3h4i6oo4hkfhhm3aafh11k9ba5m3n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

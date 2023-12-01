@@ -1,0 +1,8 @@
+{
+  "name": "Findak",
+  "displayName": "Findak",
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-9134279619056314~7195986517",
+    "ios_app_id": "ca-app-pub-9134279619056314~4876944937"
+  }
+}
